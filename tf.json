@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "moonlit-bliss-375918",
+  "private_key_id": "05360975a8e87f3066b30b702d083fd0a78290cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCps6fNWgCtq7dD\nDHDaG2DuAgB6x3LVVfqggApIbvNlrIL/wAOpGWKF943B6rsAgGamSfJtykq102Ut\nY2cT137JQzOqD9Aa3YbAZjeiihk1Np+3qkqIyOqV4igBSF9r+MTN7vGmdZ1n/5UF\n92OCPwjMyko7oc4o84Bzv3/zw/t/rowAj87WHdbkezAR8mlhVPD8Hl4tBjHvpuVs\nAJOSrCahlSAQwhWt5fiJRc1OlhGVjoeOOuBgXKhLyqMEMU0/dbiPfLOuAZQUspQ+\nHYGviH02TNZloNXCjETUE6OJ6KPpTp2a97II+ymRCbXIgIL2iFSBreRX+nPVP61u\nhkvwAjYfAgMBAAECgf8PJiAneH9440xEEd/E4+kG+8xpg83iH1nPRWKWjTLh2SKr\nZq1lcovZAEfcAC7eicT6bZBrWroygQ5hfuAHkpcCnKpS1ulbBCA4DKuug//LIivF\nfUiEZeOaI1Ju6P99jWS431fvT3Jq7NbRuQ8hespV2BNuAxpNq6tL1xBCMoBXkpfl\n1D6S6xIYPWjpyh3a/0fAVUOSTGIGYUaxsRFabO3vi1Du1vTUERMtW8suBKx3v99V\n5JcHkSJmK40714ZyP/tjQ5H/LeoqLpJ5UqDCAz6RQ0zalNOb0dN+ObQVng1aVG+K\nbhE2dZZbt/eL/i+y/tXh1RfSY3Qcmm9Zi5OSUfkCgYEA6LcV8uF24FylPfwZyKeP\n00lydZZeebk50LtnK2oRRHCG/M65Bax0yukNsu/jNNIh02TiWYDDHR8QXT0Av9BN\nk1ZIQAKstXgCzmqrzCmvWJXaKjLr3KUaZ8kjxwIFOX6oOwkmxQIzyBFkYdRipRIi\nR5y86HfFJQTmGzL+wuBF68cCgYEAuq6BKXrm6IxDnAZvMQ7RGpW5565WhXn8+3qY\nx4g6JaQBwvpxGP7gon4KTarvzxUBcFOC4ApSMEqX5lHFieBg9Y4W8JVs7IxyzU4y\nTC1KyR/fO9u8LVlrBAqwYM1v41Y6DQnuW3Lgrv2zedWYdEkoYUrYOL93vdfzPcEw\nECegcukCgYA19oabbJbhTfpvVi8wbVKXnxdwlu7PcRksAtjYo17frOxQYStcWnI2\nvzYTATeBfxyi5WjrckVMUnC7/jJXSFlEyiQ026nq5qpX7TprPFtRwmX1lRtGbe6i\nlGy8cAaAH5OpJOUdl/Yj9Yx+dv5s4riaPIk9qtBHVkx5kCitTc5I7wKBgHnLAd+T\nHHUZlb6EgCSsewXyK0CZAD/C76cOPADpwq3uC2wuwnzBRMMeohA79orPNIoZIeiT\nMz3oXKPaM5uZdQifdB3wDwlhNED3xF7oqcL/9T9zQ5j+npAbfSkavuW9ys/Y69Zj\n42ynfmF9ViJ/3EVldB3J5RBJhJuEn5vajpaJAoGAEKqhnRTE35VHWHRPouGjLRvj\nq5E0JuU9dY0N84fFE+Kx1axx978CtT0V97UOHkJMC6fm8/0xUnzT9D6+eWbS07Ud\n6dwO+xeadBZBMpIllZQbGhB82RpJmfz6FBDA/n++P5d9GrwSMuxQPjoLKlQal9aC\n0/QBLPCgq2n2JAIvuQs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "srinath-gcp@moonlit-bliss-375918.iam.gserviceaccount.com",
+  "client_id": "106512631435671223855",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/srinath-gcp%40moonlit-bliss-375918.iam.gserviceaccount.com"
+}
