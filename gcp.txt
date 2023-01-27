@@ -1,0 +1,29 @@
+------------
+------------
+providers.tf
+------------
+------------
+provider "google" {
+  credentials = file("../../gcp_service_account.json")
+  project = "citric-pager-202006"
+  region  = "us-central1"
+  zone    = "us-central1-c"
+}
+
+------------
+------------
+main.tf
+------------
+------------
+terraform {
+  required_providers {
+    google = {
+      source = "hashicorp/google"
+      version = "4.49.0"
+    }
+  }
+}
+resource "google_compute_network" "vpc_network" {
+  name = "terraform-network"
+}
+
